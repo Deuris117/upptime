@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Agencia Zentella
-    url: https://www.agenciazentella.com.com
+    url: https://agenciazentella.com
   - name: Widook
-    url: https://www.widookgroup.com
+    url: https://widookgroup.com
   - name: Larimarca
-    url: https://www.larimarca.com.com
+    url: https://larimarca.com
   - name: Tu Inmueble RD
-    url: https://www.tuinmuebleperfectord.com
+    url: https://tuinmuebleperfectord.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
