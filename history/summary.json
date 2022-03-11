@@ -4,9 +4,9 @@
     "url": "https://agenciazentella.com",
     "icon": "https://favicons.githubusercontent.com/agenciazentella.com",
     "slug": "agencia-zentella",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2489,
     "timeMonth": 1985,
     "timeYear": 2829,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   },
   {
     "name": "Widook",
