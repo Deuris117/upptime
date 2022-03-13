@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/agenciazentella.com",
     "slug": "agencia-zentella",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2666,
-    "timeDay": 1109,
-    "timeWeek": 2032,
-    "timeMonth": 1926,
-    "timeYear": 2666,
-    "dailyMinutesDown": {
-      "2022-03-12": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2627,
+    "timeDay": 1062,
+    "timeWeek": 1957,
+    "timeMonth": 1895,
+    "timeYear": 2627,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Widook",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 1464,
-    "timeWeek": 988,
-    "timeMonth": 548,
-    "timeYear": 593,
+    "time": 589,
+    "timeDay": 454,
+    "timeWeek": 981,
+    "timeMonth": 555,
+    "timeYear": 589,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 782,
-    "timeDay": 348,
-    "timeWeek": 252,
-    "timeMonth": 710,
-    "timeYear": 782,
+    "time": 771,
+    "timeDay": 342,
+    "timeWeek": 278,
+    "timeMonth": 718,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2022-03-11": 39
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1132,
-    "timeDay": 2086,
-    "timeWeek": 1426,
-    "timeMonth": 1410,
-    "timeYear": 1132,
+    "time": 1113,
+    "timeDay": 315,
+    "timeWeek": 1169,
+    "timeMonth": 1348,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2022-02-09": 50,
       "2022-02-08": 19
