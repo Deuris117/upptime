@@ -22,19 +22,19 @@
     "url": "https://widookgroup.com",
     "icon": "https://favicons.githubusercontent.com/widookgroup.com",
     "slug": "widook",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 486,
-    "timeWeek": 449,
-    "timeMonth": 419,
-    "timeYear": 512,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 514,
+    "timeDay": 590,
+    "timeWeek": 480,
+    "timeMonth": 427,
+    "timeYear": 514,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 28
     }
   },
   {
